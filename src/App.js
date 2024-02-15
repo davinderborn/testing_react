@@ -17,6 +17,10 @@ function App() {
         >
           Learn React
         </a>
+
+        <h3>
+          This project is about how the deployment works.
+        </h3>
       </header>
     </div>
   );
