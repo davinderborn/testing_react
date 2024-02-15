@@ -20,6 +20,8 @@ function App() {
 
         <h3>
           This project is about how the deployment works.
+
+          This is a dummy project of React JS.
         </h3>
       </header>
     </div>
